@@ -1,0 +1,1 @@
+Открывать только через Eclipse IDE for Java Developers - 2021-09
